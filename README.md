@@ -1,4 +1,4 @@
-# Word_Count_Problem_in_Cluster_with_SSH
+# Distributed Implementation of the Word Count Problem with SSH
 
 Implementation of word count problem in a cluster of computers connected with ssh
 
